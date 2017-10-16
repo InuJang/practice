@@ -1,7 +1,8 @@
-int foo(int f){
+int fooa(int f)
+{
 
 }
-int foo2(int f2)
+int foob(int f2)
 {
 
 }

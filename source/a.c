@@ -1,7 +1,7 @@
-int foo3(int f){
+int fooc(int f){
 
 }
-int foo4(int f2)
+int food(int f2)
 {
 
 
