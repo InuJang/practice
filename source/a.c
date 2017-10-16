@@ -7,7 +7,7 @@ int food(int f2)
 
 }
 
-int foot(int f3)
+int foor(int f3)
 {
 
 }
