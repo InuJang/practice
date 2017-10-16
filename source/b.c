@@ -1,11 +1,7 @@
-int fool(int f){
+int foo(int f){
 
 }
-int fool2(int f2)
-{
-
-}
-int fool3(int f3)
+int foo2(int f2)
 {
 
 }
